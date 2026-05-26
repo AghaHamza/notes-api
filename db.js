@@ -1,3 +1,4 @@
+const AppError = require("./middlewares/AppError");
 const { Pool } = require("pg");
 require("dotenv").config();
 
