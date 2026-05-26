@@ -1,4 +1,4 @@
-const AppError = require("../middlewares/appError");
+const AppError = require("../middlewares/AppError");
 const pool = require("../db");
 
 async function getNotes(req, res, next) {
