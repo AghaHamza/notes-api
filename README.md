@@ -60,12 +60,7 @@ cd notes-api
 npm install
 ```
 
-3. Create a `.env` file in the root folder
 
-```
-DATABASE_URL=your_postgresql_connection_string
-JWT_SECRET=your_jwt_secret_key
-```
 
 4. Create the database tables
 
